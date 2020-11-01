@@ -1,11 +1,12 @@
 <p align="center">
-<a href="https://dev.to/potherca" target="blank"><img align="center" src="https://simpleicons.org/icons/dev-dot-to.svg" alt="potherca" height="30" width="40" /></a>
-<a href="https://github.com/potherca" target="blank"><img align="center" src="https://simpleicons.org/icons/github.svg" alt="potherca" height="30" width="40" /></a>
-<a href="https://instagram.com/potherca" target="blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="potherca" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/benpeachey" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="benpeachey" height="30" width="40" /></a>
-<a href="https://medium.com/@potherca" target="blank"><img align="center" src="https://simpleicons.org/icons/medium.svg" alt="@potherca" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/153049" target="blank"><img align="center" src="https://simpleicons.org/icons/stackoverflow.svg" alt="153049" height="30" width="40" /></a>
-<a href="https://twitter.com/potherca" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="potherca" height="30" width="40" /></a>  
+<a href="https://dev.to/potherca" target="blank"><img align="center" src="https://simpleicons.org/icons/dev-dot-to.svg" alt="potherca on dev.to" height="30" width="40" /></a>
+<a href="https://github.com/potherca" target="blank"><img align="center" src="https://simpleicons.org/icons/github.svg" alt="potherca on github" height="30" width="40" /></a>
+<a href="https://instagram.com/potherca" target="blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="potherca on instagram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/benpeachey" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="potherca on linkedin" height="30" width="40" /></a>
+<a href="https://medium.com/@potherca" target="blank"><img align="center" src="https://simpleicons.org/icons/medium.svg" alt="potherca on medium" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/153049" target="blank"><img align="center" src="https://simpleicons.org/icons/stackoverflow.svg" alt="potherca on stackoverflow" height="30" width="40" /></a>
+<a href="https://twitter.com/potherca" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="potherca on twitter" height="30" width="40" /></a>
+<a href="https://pother.ca" target="blank"><img align="center" src="https://pother.ca/potherca/potherca.svg" alt="potherca website" height="30" width="40" /></a>
 </p>
 
 <!--
