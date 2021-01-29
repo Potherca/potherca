@@ -8,7 +8,14 @@
 <a href="https://twitter.com/potherca" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="potherca on twitter" height="30" width="40" /></a>
 <a href="https://pother.ca" target="blank"><img align="center" src="https://pother.ca/potherca/potherca.svg" alt="potherca website" height="30" width="40" /></a>
 </p>
-
+<hr>
+<p align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=potherca&count_private=true&show_icons=true&bg_color=90,fff,fff,fff,fff,E4E2E2&include_all_commits=true&hide_rank=true&custom_title=GitHub Stats" alt="All time statistics for Potherca" /><br>
+<sup>
+  Github Stats courtesy of: 
+  <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>
+</sup>
+</p>
 <!--
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=potherca&theme=flat&row=1&column=10&margin-w=15" alt="Github Profile Trophies for Potherca" /></a>
