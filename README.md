@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://dev.to/potherca" target="blank"><img align="center" src="https://simpleicons.org/icons/dev-dot-to.svg" alt="potherca on dev.to" height="30" width="40" /></a>
+<a href="https://dev.to/potherca" target="blank"><img align="center" src="https://simpleicons.org/icons/devdotto.svg" alt="potherca on dev.to" height="30" width="40" /></a>
 <a href="https://github.com/potherca" target="blank"><img align="center" src="https://simpleicons.org/icons/github.svg" alt="potherca on github" height="30" width="40" /></a>
 <a href="https://instagram.com/potherca" target="blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="potherca on instagram" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/benpeachey" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="potherca on linkedin" height="30" width="40" /></a>
@@ -8,14 +8,19 @@
 <a href="https://twitter.com/potherca" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="potherca on twitter" height="30" width="40" /></a>
 <a href="https://pother.ca" target="blank"><img align="center" src="https://pother.ca/potherca/potherca.svg" alt="potherca website" height="30" width="40" /></a>
 </p>
-<hr>
-<p align="right">
+
+[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Potherca&branding=false&style=--header-bg-color:%23BA1515;--badge-location-font-size:0.5em;)](https://profile.codersrank.io/user/potherca)
+
 <img src="https://github-readme-stats.vercel.app/api?username=potherca&count_private=true&show_icons=true&bg_color=90,fff,fff,fff,fff,E4E2E2&include_all_commits=true&hide_rank=true&custom_title=GitHub Stats" alt="All time statistics for Potherca" /><br>
+
+![Language Timeline provided by CodersRank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Potherca&branding=false)
+
 <sup>
-  Github Stats courtesy of: 
+  Stats courtesy of: 
   <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>
+  <a href="https://codersrank.io/">codersrank.io</a>
 </sup>
-</p>
+
 <!--
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=potherca&theme=flat&row=1&column=10&margin-w=15" alt="Github Profile Trophies for Potherca" /></a>
@@ -45,7 +50,7 @@
 </table>
 
 <sup>
-  Github Stats courtesy of: 
+  Stats courtesy of: 
   <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a> /
   <a href="https://github.com/ryo-ma/github-profile-trophy">ryo-ma/github-profile-trophy</a>
 </sup>
