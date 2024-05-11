@@ -9,14 +9,16 @@
 <a href="https://pother.ca" target="blank"><img align="center" src="https://pother.ca/potherca/potherca.svg" alt="potherca website" height="30" width="40" /></a>
 </p>
 
-[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Potherca&branding=false&style=--header-bg-color:%23BA1515;--badge-location-font-size:0.5em;)](https://profile.codersrank.io/user/potherca)
+[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Potherca&branding=false&style=--header-bg-color:%23BA1515;--badge-location-font-size:0.5em;)][3]
+[![Most used language statistics for Potherca][1]][1]
+[![All time statistics for Potherca][2]][2]
+[![Language Timeline provided by CodersRank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Potherca&branding=false)][3]
+[![][4]][4]
 
-![Most used language statistics for Potherca](https://github-readme-stats.vercel.app/api/top-langs/?username=potherca&bg_color=90,fff,fff,fff,fff,fff,E4E2E2&langs_count=10&&layout=compact)
-![All time statistics for Potherca](https://github-readme-stats.vercel.app/api?username=potherca&count_private=true&show_icons=true&bg_color=90,fff,fff,fff,fff,E4E2E2&include_all_commits=true&hide_rank=true&custom_title=GitHub%20Stats)
-
-![Language Timeline provided by CodersRank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Potherca&branding=false)
-
-![](https://github-profile-trophy.vercel.app/?username=Potherca&column=12)
+[1]: https://github-readme-stats.vercel.app/api/top-langs/?username=potherca&bg_color=90,fff,fff,fff,fff,fff,E4E2E2&langs_count=10&&layout=compact
+[2]: https://github-readme-stats.vercel.app/api?username=potherca&count_private=true&show_icons=true&bg_color=90,fff,fff,fff,fff,E4E2E2&include_all_commits=true&hide_rank=false&custom_title=GitHub%20Stats
+[3]: https://profile.codersrank.io/user/potherca
+[4]: https://github-profile-trophy.vercel.app/?username=Potherca&column=12
 
 <sup>
   Stats courtesy of: 
