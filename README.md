@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/benpeachey" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/black/white" alt="potherca on linkedin" height="30" width="40" /></a>
 <a href="https://medium.com/@potherca" target="blank"><img align="center" src="https://cdn.simpleicons.org/medium/black/white" alt="potherca on medium" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/153049" target="blank"><img align="center" src="https://cdn.simpleicons.org/stackoverflow/black/white" alt="potherca on stackoverflow" height="30" width="40" /></a>
-<a href="https://twitter.com/potherca" target="blank"><img align="center" src="https://cdn.simpleicons.org/twitter/black/white" alt="potherca on twitter" height="30" width="40" /></a>
+<a href="https://twitter.com/potherca" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/black/white" alt="potherca on twitter" height="30" width="40" /></a>
 <a href="https://pother.ca" target="blank"><img align="center" src="https://pother.ca/potherca/potherca.svg" alt="potherca website" height="30" width="40" /></a>
 </p>
 
